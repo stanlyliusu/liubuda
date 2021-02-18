@@ -1,0 +1,3 @@
+[submodule "themes/calmato"]
+	path = themes/calmato
+	url = https://github.com/zdong1995/calmato.git
